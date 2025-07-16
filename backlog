@@ -1,48 +1,83 @@
-🎯 Red Teaming Tips – by @omarhany_cyber
 
-🔍 Reconnaissance
+# 🧠 Red Teaming Backlog – Omar Hany
 
-OSINT Techniques by @nullenc0de
+---
 
-OSINT Framework (GitHub)
+## 🔍 Reconnaissance  
+- [ ] OSINT Techniques by @nullenc0de  
+      🔗 https://twitter.com/nullenc0de/status/1628576277123702789  
+- [ ] OSINT Framework (GitHub)  
+      🔗 https://gist.github.com/superkojiman/11076951  
 
+---
 
-⚙️ Resource Development
+## ⚙️ Resource Development  
+- [ ] (Add tools/resources as needed)
 
-🔐 Initial Access
+---
 
-conpass - login-securite project
+## 🔐 Initial Access  
+- [ ] `conpass` – login-securite project  
+      🔗 https://github.com/login-securite/conpass  
 
+---
 
-💥 Execution
+## 💥 Execution  
+- [ ] (Add tools/resources as needed)
 
-🛡️ Persistence
+---
 
-📈 Privilege Escalation
+## 🛡️ Persistence  
+- [ ] (Add tools/resources as needed)
 
-🕵️ Defense Evasion
+---
 
-🔑 Credential Access
+## 📈 Privilege Escalation  
+- [ ] (Add tools/resources as needed)
 
-📡 Discovery
+---
 
-↔️ Lateral Movement
+## 🕵️ Defense Evasion  
+- [ ] (Add tools/resources as needed)
 
-📥 Collection
+---
 
-🧠 Command and Control
+## 🔑 Credential Access  
+- [ ] (Add tools/resources as needed)
 
-📤 Exfiltration
+---
 
-🔥 Impact
+## 📡 Discovery  
+- [ ] (Add tools/resources as needed)
 
-unshackle by @Fadi002 (GitHub)
+---
 
+## ↔️ Lateral Movement  
+- [ ] (Add tools/resources as needed)
 
+---
 
--
+## 📥 Collection  
+- [ ] (Add tools/resources as needed)
 
-📲 تابعني للمزيد:
-🔗 Instagram: @omarhany_cyber
-🌐 Portfolio: omarhany.netlify.app
-💼 Cybersecurity Student | Red Teamer in Progress
+---
+
+## 🧠 Command and Control  
+- [ ] (Add tools/resources as needed)
+
+---
+
+## 📤 Exfiltration  
+- [ ] (Add tools/resources as needed)
+
+---
+
+## 🔥 Impact  
+- [ ] `unshackle` by @Fadi002  
+      🔗 https://github.com/Fadi002/unshackle
+
+---
+
+## 📲 Socials & Portfolio  
+- Instagram: [@omarhany_cyber](https://www.instagram.com/omarhany_cyber)  
+- Portfolio: [omarhany.netlify.app](https://omarhany.netlify.app)
